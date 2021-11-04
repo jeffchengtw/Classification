@@ -1,4 +1,5 @@
 # HW1
+![image](https://github.com/jeffchengtw/HW1)
 # Environment
 CUDA 11.1 + cudnn 8.0.5 + Win10
 ```
