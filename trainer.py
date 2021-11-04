@@ -6,9 +6,6 @@ import matplotlib.pyplot as plt
 
 import  keras_efficientnet_v2
 
-from solve_cudnn_error import *
-solve_cudnn_error()
-
 # train param
 batch_size = 4
 image_size = (480,480)
