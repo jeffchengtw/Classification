@@ -12,12 +12,12 @@ answer_arr=[]
 img_arr = []
 label_idx = []
 
-PREDICT_MODE = 'train'
+PREDICT_MODE = 'test'
 def get_key(dict, value):
     return [k for k, v in dict.items() if v==value]    
 
 
-if PREDICT_MODE == 'test':
+if PREDICT_MODE == 'train':
     with open('txt/training_labels.txt') as f:
             for line in f.readlines():
                 line = line.strip('\n')
