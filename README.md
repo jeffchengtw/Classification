@@ -6,6 +6,9 @@ pip install tensorflow-gpu=2.4.1
 pip install python-opencv
 pip install pillow
 ```
+# answer_model
+https://drive.google.com/file/d/1xawC31XjHzGLkSVgxAuhC1UV3RHQyfH4/view?usp=sharing
+
 # Prediction
 put all source image to 'src/test'
 ```
