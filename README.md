@@ -3,6 +3,8 @@
 CUDA 11.1 + cudnn 8.0.5 + Win10
 ```
 pip install tensorflow-gpu=2.4.1
+pip install python-opencv
+pip install pillow
 ```
 # Prediction
 put all source image to 'src/test'
